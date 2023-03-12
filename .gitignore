@@ -23,4 +23,12 @@
 *.xcuserstate
 project.xcworkspace/
 *.xcproj
+
+# Ignore Vim swap files
 *.swp
+
+# Ignore .cph folder
+/.cph
+
+# Ignore PNG files
+*.png

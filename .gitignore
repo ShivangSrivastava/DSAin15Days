@@ -1,0 +1,26 @@
+# Ignore executables
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore compiled C++ libraries
+*.a
+
+# Ignore compiled shared objects/DLLs
+*.so
+*.dll
+
+# Ignore IDE files (Visual Studio, Xcode, etc.)
+.vscode/
+*.suo
+*.ntvs*
+*.nib
+*.user
+*.aps
+*.pbxproj
+*.xcworkspace
+*.xcuserstate
+project.xcworkspace/
+*.xcproj
+*.swp

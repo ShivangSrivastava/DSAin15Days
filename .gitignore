@@ -32,3 +32,5 @@ project.xcworkspace/
 
 # Ignore PNG files
 *.png
+
+*.bin
